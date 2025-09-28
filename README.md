@@ -6,13 +6,17 @@
 ## 🚀 Problem Statement
 
 Spotify’s raw dataset provides only **lists & rankings**, making it difficult to track KPIs, trends, or compare performances.
-Key challenges solved:
+Key challenges solved
 
 * ❌**No clear KPI monitoring** → ✅ Dashboard with **Total Songs, Distinct Artists, Popularity, Duration**.
 * ❌ **No explicit vs non-explicit analysis** → ✅ Compare **explicit vs clean songs**.
 * ❌ **No visibility of song/album distribution** → ✅ Breakdown by **album type & year**.
 * ❌ **Missing trend insights** → ✅ Track **monthly & yearly popularity trends**.
 * ❌ **Artist vs Song-level gap** → ✅ Drill-down to detailed **artist/song pages**.
+
+## 📂 Dataset
+
+[Spotify Data("")]
 
 ## 🏠 Home Dashboard
 
