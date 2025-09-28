@@ -119,8 +119,8 @@ Key challenges solved:
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI**
-* **Excel** 
-* **PowerQuery**
-* **DAX**
-* **Chatgpt**
+* **Power BI** – Data modeling & dashboards
+* **Excel** – Data cleaning & analysis
+* **PowerQuery** – Data transformation
+* **DAX** – Measures & KPIs calculation
+* **ChatGPT / AI** – Helped in generating DAX formulas & dashboard insights
