@@ -15,8 +15,8 @@ Key challenges solved
 * ❌ **Artist vs Song-level gap** → ✅ Drill-down to detailed **artist/song pages**.
 
 ## 📂 Dataset
+[Click To Download Spotify Data](https://github.com/harshgholap05/Spotify-Dashboard/blob/main/Dataset%20File/Spotify%20Data%202023%20-%202024%20.csv)
 
-[Spotify Data](
 
 ## 🏠 Home Dashboard
 
