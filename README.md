@@ -18,6 +18,8 @@ Key challenges solved:
 
 <img width="1324" height="760" alt="Screenshot 2025-09-28 122036" src="https://github.com/user-attachments/assets/a3d0c961-2a23-4d20-b595-11fb111041b6" />
 
+##
+
      📊 Overview Dashboard
      🎙️ Artists Dashboard
      🎵 Songs Dashboard
@@ -29,6 +31,7 @@ Key challenges solved:
 **The Overview Dashboard contains information on individual Spotify tracks, including artist name, duration, popularity, album type and explicit and Non-explicit content. It helps analyze music trends, artist contributions, popularity distribution, and listener preferences.**
 
 <img width="1424" height="805" alt="Screenshot 2025-09-28 123211" src="https://github.com/user-attachments/assets/b83a41ad-d743-49eb-bdb5-9463218c8bce" />
+
 
 
 ## 👉 KPIs Supported in Overview Dashboard
@@ -70,10 +73,11 @@ Key challenges solved:
 * **Album Type Distribution** – Count of songs by type (Album, Single, Compilation, etc.) for that artist.
 
 * **Most Popular Song Name** – Name of the artist’s highest-popularity track.
-
+  
+## 
 <img width="1426" height="805" alt="Screenshot 2025-09-28 123225" src="https://github.com/user-attachments/assets/01429675-79c7-4951-8277-905e9233bdc8" />
 
-## 👉 KPIs Supported in Artist Dashboard:
+## 👉 KPIs Supported in Artist Dashboard
 
 * **Songs by Artist** → Total Songs / Songs per Artist
 
@@ -88,31 +92,35 @@ Key challenges solved:
 ---
 
 ## 🎵 Songs Dashboard
+**The Songs Dashboard contains information on individual tracks, their artists, release details, album type, popularity, and duration. It helps analyze artist contributions, track performance, and yearly song release trends.**
 
+<img width="1424" height="805" alt="Screenshot 2025-09-28 123241" src="https://github.com/user-attachments/assets/c52d1e72-07a8-4b15-92da-f38596019150" />
 
+## 👉 KPIs Supported in Songs Dashboard
 
+* **Songs (Songs by Artist)** – List of songs with their respective artists.
+
+* **Songs by Artist (Distinct Artists by Songs)** – Count of distinct artists based on their songs.
+
+* **Total Songs by Artist (Sum of Popularity)** – Total popularity score of all songs per artist.
+
+* **Songs Hit per Artist (Position 1)** – Tracks ranked at the top position for each artist.
+
+* **Song Name, Release Date, Album Type (Single, Album)** – Details of track identity, release timing, and album classification.
+
+* **Average Popularity** – Mean popularity score across songs.
+
+* **Average Duration (Minutes)** – Mean length of tracks in minutes.
+
+* **Songs per Year** – Total number of songs released each year.
+
+* **Total Songs by Artist** – Count of songs contributed by each artist.
 
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI** – Dashboard design & DAX measures
-* **Excel** – Data cleaning & preprocessing
-* **Python** – Data transformation & automation
-* **SQL (optional)** – Data queries
-
-
-## 📈 Insights for Stakeholders
-
-* Identify **trending songs & artists** for marketing promotions.
-* Compare **explicit vs clean tracks** to tailor playlists.
-* Track **album type distribution** (single vs album dominance).
-* Spot **emerging artists & consistent hitmakers**.
-* Enable **data-driven decisions** for curation and marketing teams.
-
-
-## 📷 Dashboard Preview 
-
-
-
-👉 Would you like me to also make a **shorter LinkedIn version of this README (engaging, with hashtags)** so you can post it directly?
-
+* **Power BI**
+* **Excel** 
+* **PowerQuery**
+* **DAX**
+* **Chatgpt**
