@@ -36,7 +36,9 @@ Key challenges solved
 
 <img width="1424" height="805" alt="Screenshot 2025-09-28 123211" src="https://github.com/user-attachments/assets/b83a41ad-d743-49eb-bdb5-9463218c8bce" />
 
+##
 
+<img width="1426" height="802" alt="Screenshot 2025-09-29 155128" src="https://github.com/user-attachments/assets/dc66e50a-a961-40bd-bac9-b6839916ad97" />
 
 ## 👉 KPIs Supported in Overview Dashboard
 * **Songs (Songs by Artists)** – The list of songs along with their respective artists.
@@ -81,6 +83,10 @@ Key challenges solved
 ## 
 <img width="1426" height="805" alt="Screenshot 2025-09-28 123225" src="https://github.com/user-attachments/assets/01429675-79c7-4951-8277-905e9233bdc8" />
 
+##
+<img width="1425" height="804" alt="Screenshot 2025-09-29 155159" src="https://github.com/user-attachments/assets/ea1d9dbb-dbe7-4a5b-9e39-d633a4ee737d" />
+
+
 ## 👉 KPIs Supported in Artist Dashboard
 
 * **Songs by Artist** → Total Songs / Songs per Artist
@@ -99,6 +105,9 @@ Key challenges solved
 **The Songs Dashboard contains information on individual tracks, their artists, release details, album type, popularity, and duration. It helps analyze artist contributions, track performance, and yearly song release trends.**
 
 <img width="1424" height="805" alt="Screenshot 2025-09-28 123241" src="https://github.com/user-attachments/assets/c52d1e72-07a8-4b15-92da-f38596019150" />
+
+##
+<img width="1423" height="805" alt="Screenshot 2025-09-29 155236" src="https://github.com/user-attachments/assets/c07bb068-f17b-4421-8864-6f851a07feeb" />
 
 ## 👉 KPIs Supported in Songs Dashboard
 
