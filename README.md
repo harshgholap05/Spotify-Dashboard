@@ -137,3 +137,6 @@ Key challenges solved
 * **PowerQuery** – Data transformation
 * **DAX** – Measures & KPIs calculation
 * **ChatGPT / AI** – Helped in generating DAX formulas & dashboard insights
+
+ ##
+ ## [Linkedin](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
